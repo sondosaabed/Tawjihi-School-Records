@@ -10,7 +10,7 @@ And the program will report the mean, the mode, and the median, also the varianc
 In order to run the project, needs the JavaFx library to be build on the projecet path.  
 
 # File format example
-The input of file of the program is .cvs and this is it's format
+The input of file of the program is .cvs and this is it's format:
 ![image](https://user-images.githubusercontent.com/65151701/156897824-dfb6b1c9-00e4-469e-a083-cd9477c3cac2.png)
 
 # Programms versions
