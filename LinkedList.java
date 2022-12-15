@@ -4,12 +4,9 @@ public class LinkedList {
     public Node LastNode = null;  
     public int size=0;
     
-	public LinkedList() {
-		//non arguments constructor 
-	}
 	
 	public boolean isEmpty() {
-		//this method is to now whether the linked list is empty or not
+		//this method is to know whether the linked list is empty or not
 		if(firstNode==null) {
 			return true;
 		}
